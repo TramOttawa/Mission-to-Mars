@@ -20,4 +20,4 @@ The website that allowed for five different categories to filter the data: date,
 ![UFO_Image04](https://user-images.githubusercontent.com/100484606/169977638-0a5339b4-c081-4a75-af7e-90589a7f47e9.JPG)
 
 # Summary
-One drawback for this website is that the filter function should be built as a list rather than text input. The users should pick one in the given list rather than inputing information. It will cause problems when the input informaion is not accurate and of course, no result will be found.
+One drawback for this website is that the filter function should be built as a list rather than text input with "filter button". The users should pick informaton from the given list rather than inputing information. A "Clear button" needs to be created as well for friendly user purpose. It will cause problems when the input informaion is not accurate and of course, no result will be found.
