@@ -1,4 +1,8 @@
+
+
 # UFOs
+[Here is the link](https://tramottawa.github.io/UFOs)
+
 The purpose of this project is to create a website that displays UFO-sightings data with filter function. The users can filter multiple creteria at the same time.
 * using HTML/CSS and bootstrap to display data that was stored in a js file. 
 * using JavaScript to add this data to the website in a table format while being able to filter through it with the user's input.
